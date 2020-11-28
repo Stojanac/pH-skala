@@ -1,0 +1,82 @@
+
+body{
+    background-color: silver;
+}
+
+
+
+
+
+
+.naslov{
+    background-color: lightgray;
+    font-size: xx-large;
+    line-height: 50px;
+    padding-left: 20px;
+}
+
+.boja{
+    color: white;
+    line-height: 25px;
+    margin-bottom: -16px;
+    padding-left: 10px;
+}
+
+.cetrnaest{
+    background-color: rgb(0, 136, 221);
+}
+
+.trinaest{
+    background-color: rgb(0, 149, 226);
+}
+
+.dvanaest{
+    background-color: rgb(0, 160, 230);
+}
+
+.jedanaest{
+    background-color: rgb(48, 170, 233);
+}
+.deset{
+    background-color: rgb(84, 182, 237);
+}
+
+.devet{
+    background-color: rgb(114, 193, 240);
+}
+
+.osam{
+    background-color: rgb(140, 202, 242);
+}
+
+.sedam{
+    background-color: rgb(0, 187, 136);
+}
+
+.sest{
+    background-color: rgb(245, 176, 204);
+}
+
+.pet{
+    background-color: rgb(246, 159, 192);
+}
+
+.cetiri{
+    background-color: rgb(245, 140, 178);
+}
+
+.tri{
+    background-color: rgb(244, 123, 166);
+}
+
+.dva{
+    background-color: rgb(243, 106, 152);
+}
+
+.jedan{
+    background-color: rgb(244, 90, 139);
+}
+
+.nula{
+    background-color: rgb(238, 62, 128);
+}
